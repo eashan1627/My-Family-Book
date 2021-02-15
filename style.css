@@ -1,0 +1,22 @@
+body {
+    text-align: justify;
+  }
+
+  .header {
+    word-spacing: 10px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+  }
+
+  #album {
+    border-style: solid;
+  border-color: red;
+  border: 50px;
+  border-radius: 80px;
+  padding: 1px;
+  width: 10%;
+  height: 10%;
+  }
+
+ 
